@@ -2,7 +2,12 @@
 
 只要按着教程一步一步走，一般就没什么问题
 
-### 1. 下载 IDEA
+### 安装JDK
+
+- [点我下载Zulu JDK](https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu)
+- 无脑下一步
+
+###  下载 IDEA
 
 - 请打开[idea community](https://www.jetbrains.com/idea/download/?section=windows)，向下翻找找到`IntelliJ IDEA Community Edition`
 
@@ -14,7 +19,7 @@
 
 - 恭喜你完成了
 
-### 2. 下载开发环境
+### 下载开发环境
 
 请在以下方式中选择一个，推荐使用Github
 
@@ -23,7 +28,7 @@
 
 请解压到一个你想要的位置，这里我是`F:\code`，下面我将会使用这个路径作为示例
 
-### 3. 构建环境
+###  构建环境
 
 点击`Open`
 
