@@ -42,23 +42,16 @@ repositories {
         dir("libs")
     }
     maven { url = "https://hub.spigotmc.org/nexus/content/repositories/public/" }
-    maven { url = "http://maven.ljxmc.top/repository/handy-minecraft/" }
+    maven { url = "https://maven.ljxmc.top/repository/handy-minecraft/" }
     maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-    compile group: "noppes.npcs", name:"CustomNPCs_1.12.2", version: "(05Jul20)-deobf"
-    compile "codechicken:CodeChickenLib:1.12.2-3.2.3.357"
-
     implementation fileTree(dir: 'libs', includes: ['*.jar'])
     // Bukkit和插件
     compile "org.bukkit:bukkit:1.12.2-R0.1-SNAPSHOT"
     compile "org.spigotmc:spigot-api:1.12.2-R0.1-SNAPSHOT"
-    compile "org.serverct.ersha.jd:AttributePlus:2.2.9.2"
     compileOnly "com.github.MilkBowl:VaultAPI:1.7"
-
-    // mcglib2
-    compileOnly 'moe.gensoukyo:mcglib2:0.1.7', { transitive = false } // build mcglib2 to get this dependency
 
 
     compile group: "org.jetbrains.kotlin", name: "kotlin-stdlib", version: kotlin_version
