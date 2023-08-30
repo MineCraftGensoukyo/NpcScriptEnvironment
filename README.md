@@ -25,6 +25,10 @@
 
 ### 3. 构建环境
 
+点击`Open`
+
+![image-20230830220119900](docs/images/image-20230830220119900.png)
+
 在 IDEA 内打开 `F:\code\NpcScriptEnvironment\build.gradle` 这个文件
 
 点击作为项目打开
