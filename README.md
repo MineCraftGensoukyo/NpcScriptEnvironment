@@ -54,7 +54,7 @@
 - setupDecompWorkspace
 - setupDevWorkspace
 
-![image-20230831124927144](F:\code\mcg\NpcScriptEnvironment\README.assets\image-20230831124927144.png)
+![image-20230831124927144](./docs/images/image-20230831124927144.png)
 
 接下来你会看见IDEA正在构建，等待他出现完成以后并且不是红色的警告，说明已经构建成功了，恭喜你
 
