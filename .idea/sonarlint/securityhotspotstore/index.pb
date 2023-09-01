@@ -12,5 +12,3 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 7
 gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
-V
-&src/main/kotlin/moe/mcg/rpg/Migrate.kt,6\9\69b45e8bf9a6d21503fe4e4af7442877d0a672df

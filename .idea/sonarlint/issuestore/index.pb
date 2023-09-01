@@ -12,5 +12,3 @@ X
 gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
 ;
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
-V
-&src/main/kotlin/moe/mcg/rpg/Migrate.kt,6\9\69b45e8bf9a6d21503fe4e4af7442877d0a672df
