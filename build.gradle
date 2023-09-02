@@ -45,8 +45,8 @@ repositories {
     flatDir {
         dir("libs")
     }
-    maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
-    maven{ url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
+    maven { url 'https://maven.aliyun.com/nexus/content/groups/public/' }
+    maven { url 'https://maven.aliyun.com/nexus/content/repositories/jcenter' }
     maven { url = "https://hub.spigotmc.org/nexus/content/repositories/public/" }
     maven { url = "https://maven.ljxmc.top/repository/handy-minecraft/" }
     maven { url 'https://jitpack.io' }
